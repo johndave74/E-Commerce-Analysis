@@ -9,7 +9,7 @@ This project analyzes e-commerce transaction data using **Pandas** to uncover ke
 ## **Key Objectives**  
 - Clean and preprocess e-commerce transaction data.  
 - Analyze purchasing patterns and peak shopping hours.  
-- Identify popular payment methods and customer demographics.  
+- Identify popular payment methods and customer demographics.
 - Extract meaningful insights to optimize marketing and sales strategies.  
 
 ## **Dataset Details**  
